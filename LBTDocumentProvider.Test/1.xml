@@ -1,0 +1,4338 @@
+﻿<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 wp14">
+  <w:body>
+    <w:p w:rsidRPr="00CE6B0F" w:rsidR="00516B3C" w:rsidP="00B2225A" w:rsidRDefault="00516B3C">
+      <w:pPr>
+        <w:contextualSpacing />
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00CE6B0F">
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t>T.C</w:t>
+      </w:r>
+      <w:r w:rsidR="00600EF5">
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidRPr="00CE6B0F" w:rsidR="00516B3C" w:rsidP="00516B3C" w:rsidRDefault="00066653">
+      <w:pPr>
+        <w:spacing w:line="240" w:lineRule="auto" />
+        <w:contextualSpacing />
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t>%ADALETSARAYI%</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidRPr="00CE6B0F" w:rsidR="00B2225A" w:rsidP="00B2225A" w:rsidRDefault="00066653">
+      <w:pPr>
+        <w:spacing w:line="240" w:lineRule="auto" />
+        <w:contextualSpacing />
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t>%ICRADAIRESI%</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00CE6B0F" w:rsidR="00516B3C">
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t xml:space="preserve">.İCRA MÜDÜRLÜĞÜ </w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidRPr="00CE6B0F" w:rsidR="00516B3C" w:rsidP="00B2225A" w:rsidRDefault="00066653">
+      <w:pPr>
+        <w:spacing w:line="240" w:lineRule="auto" />
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t>%DOSYANO%</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidRPr="00853D39" w:rsidR="00516B3C" w:rsidP="00853D39" w:rsidRDefault="00516B3C">
+      <w:pPr>
+        <w:jc w:val="both" />
+      </w:pPr>
+      <w:r w:rsidRPr="00853D39">
+        <w:t>Alacaklı vekili geldi,</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidRPr="00796230" w:rsidR="00CE6B0F" w:rsidP="00796230" w:rsidRDefault="00C0164C">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:cs="Calibri" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:t>1-</w:t>
+      </w:r>
+      <w:r w:rsidR="00796230">
+        <w:rPr>
+          <w:rFonts w:cs="Calibri" />
+        </w:rPr>
+        <w:t>Borçlu</w:t>
+      </w:r>
+      <w:r w:rsidR="008E2B82">
+        <w:rPr>
+          <w:rFonts w:cs="Calibri" />
+        </w:rPr>
+        <w:t>-</w:t>
+      </w:r>
+      <w:r w:rsidR="00796230">
+        <w:rPr>
+          <w:rFonts w:cs="Calibri" />
+        </w:rPr>
+        <w:t xml:space="preserve">ların mernis adresine TK 21’e göre yeniden ödeme emri gönderilmesini talep ederim. </w:t>
+      </w:r>
+      <w:r w:rsidR="002C2CCF">
+        <w:t>%CURRENTDATE%</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidRPr="00CE6B0F" w:rsidR="00B2225A" w:rsidP="00B2225A" w:rsidRDefault="00B2225A">
+      <w:pPr>
+        <w:contextualSpacing />
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00853D39">
+        <w:t xml:space="preserve">    </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00853D39">
+        <w:tab />
+      </w:r>
+      <w:r w:rsidRPr="00853D39" w:rsidR="00516B3C">
+        <w:tab />
+      </w:r>
+      <w:r w:rsidRPr="00853D39" w:rsidR="00516B3C">
+        <w:tab />
+      </w:r>
+      <w:r w:rsidRPr="00853D39" w:rsidR="00516B3C">
+        <w:tab />
+      </w:r>
+      <w:r w:rsidRPr="00853D39" w:rsidR="00516B3C">
+        <w:tab />
+      </w:r>
+      <w:r w:rsidRPr="00853D39" w:rsidR="00516B3C">
+        <w:tab />
+      </w:r>
+      <w:r w:rsidRPr="00853D39" w:rsidR="00516B3C">
+        <w:tab />
+      </w:r>
+      <w:r w:rsidRPr="00853D39" w:rsidR="00516B3C">
+        <w:tab />
+      </w:r>
+      <w:r w:rsidR="00600EF5">
+        <w:t xml:space="preserve">   </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00CE6B0F" w:rsidR="00516B3C">
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t>Alacaklı Ve</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00CE6B0F">
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t xml:space="preserve">kili </w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidRPr="00CE6B0F" w:rsidR="00516B3C" w:rsidP="00B2225A" w:rsidRDefault="00516B3C">
+      <w:pPr>
+        <w:ind w:left="4956" />
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00CE6B0F">
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00CE6B0F" w:rsidR="00B2225A">
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t xml:space="preserve">          </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00CE6B0F">
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r w:rsidR="00EC4AEC">
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t>%AVUKATALACAK%</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00CE6B0F" w:rsidP="00B2225A" w:rsidRDefault="00CE6B0F">
+      <w:pPr>
+        <w:ind w:left="4956" />
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="00CE6B0F" w:rsidP="00B2225A" w:rsidRDefault="00CE6B0F">
+      <w:pPr>
+        <w:ind w:left="4956" />
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="004E6B4C" w:rsidP="004E6B4C" w:rsidRDefault="00CE6B0F">
+      <w:pPr>
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00CE6B0F">
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t>Borçlu</w:t>
+      </w:r>
+      <w:r w:rsidR="00EE54EB">
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t>-</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00CE6B0F">
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t xml:space="preserve">lar : </w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="00CE6B0F" w:rsidP="004E6B4C" w:rsidRDefault="00FD23FD">
+      <w:r>
+        <w:t>%KESINLESENBORCLULAR%</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="006942B1" w:rsidP="004E6B4C" w:rsidRDefault="006942B1" />
+    <w:p w:rsidR="006942B1" w:rsidP="004E6B4C" w:rsidRDefault="006942B1" />
+    <w:p w:rsidR="006942B1" w:rsidP="004E6B4C" w:rsidRDefault="006942B1" />
+    <w:p w:rsidR="006942B1" w:rsidP="004E6B4C" w:rsidRDefault="006942B1" />
+    <w:p w:rsidR="006942B1" w:rsidP="004E6B4C" w:rsidRDefault="006942B1" />
+    <w:p w:rsidR="006942B1" w:rsidP="004E6B4C" w:rsidRDefault="006942B1" />
+    <w:p w:rsidR="006942B1" w:rsidP="004E6B4C" w:rsidRDefault="006942B1" />
+    <w:p w:rsidR="006942B1" w:rsidP="004E6B4C" w:rsidRDefault="006942B1" />
+    <w:p w:rsidR="006942B1" w:rsidP="004E6B4C" w:rsidRDefault="006942B1" />
+    <w:p w:rsidR="006942B1" w:rsidP="004E6B4C" w:rsidRDefault="006942B1" />
+    <w:p w:rsidR="006942B1" w:rsidP="004E6B4C" w:rsidRDefault="006942B1" />
+    <w:p w:rsidR="006942B1" w:rsidP="004E6B4C" w:rsidRDefault="006942B1" />
+    <w:p w:rsidR="006942B1" w:rsidP="004E6B4C" w:rsidRDefault="006942B1" />
+    <w:p w:rsidR="006942B1" w:rsidP="004E6B4C" w:rsidRDefault="006942B1" />
+    <w:p w:rsidR="006942B1" w:rsidP="004E6B4C" w:rsidRDefault="006942B1" />
+    <w:p w:rsidR="006942B1" w:rsidP="004E6B4C" w:rsidRDefault="006942B1" />
+    <w:p w:rsidRPr="00CE6B0F" w:rsidR="006942B1" w:rsidP="006942B1" w:rsidRDefault="006942B1">
+      <w:pPr>
+        <w:contextualSpacing />
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00CE6B0F">
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:lastRenderedPageBreak />
+        <w:t>T.C</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidRPr="00CE6B0F" w:rsidR="006942B1" w:rsidP="006942B1" w:rsidRDefault="006942B1">
+      <w:pPr>
+        <w:spacing w:line="240" w:lineRule="auto" />
+        <w:contextualSpacing />
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t>%ADALETSARAYI%</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidRPr="00CE6B0F" w:rsidR="006942B1" w:rsidP="006942B1" w:rsidRDefault="006942B1">
+      <w:pPr>
+        <w:spacing w:line="240" w:lineRule="auto" />
+        <w:contextualSpacing />
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t>%ICRADAIRESI%</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00CE6B0F">
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t xml:space="preserve">.İCRA MÜDÜRLÜĞÜ </w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidRPr="00CE6B0F" w:rsidR="006942B1" w:rsidP="006942B1" w:rsidRDefault="006942B1">
+      <w:pPr>
+        <w:spacing w:line="240" w:lineRule="auto" />
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t>%DOSYANO%</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidRPr="00853D39" w:rsidR="006942B1" w:rsidP="006942B1" w:rsidRDefault="006942B1">
+      <w:pPr>
+        <w:jc w:val="both" />
+      </w:pPr>
+      <w:r w:rsidRPr="00853D39">
+        <w:t>Alacaklı vekili geldi,</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidRPr="00796230" w:rsidR="006942B1" w:rsidP="006942B1" w:rsidRDefault="006942B1">
+      <w:pPr>
+        <w:rPr>
+          <w:rFonts w:cs="Calibri" />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:t>1-</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="Calibri" />
+        </w:rPr>
+        <w:t xml:space="preserve">Borçlu-ların mernis adresine TK 21’e göre yeniden ödeme emri gönderilmesini talep ederim. </w:t>
+      </w:r>
+      <w:r>
+        <w:t>%CURRENTDATE%</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidRPr="00CE6B0F" w:rsidR="006942B1" w:rsidP="006942B1" w:rsidRDefault="006942B1">
+      <w:pPr>
+        <w:contextualSpacing />
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00853D39">
+        <w:t xml:space="preserve">    </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00853D39">
+        <w:tab />
+      </w:r>
+      <w:r w:rsidRPr="00853D39">
+        <w:tab />
+      </w:r>
+      <w:r w:rsidRPr="00853D39">
+        <w:tab />
+      </w:r>
+      <w:r w:rsidRPr="00853D39">
+        <w:tab />
+      </w:r>
+      <w:r w:rsidRPr="00853D39">
+        <w:tab />
+      </w:r>
+      <w:r w:rsidRPr="00853D39">
+        <w:tab />
+      </w:r>
+      <w:r w:rsidRPr="00853D39">
+        <w:tab />
+      </w:r>
+      <w:r w:rsidRPr="00853D39">
+        <w:tab />
+      </w:r>
+      <w:r>
+        <w:t xml:space="preserve">   </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00CE6B0F">
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t xml:space="preserve">Alacaklı Vekili </w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidRPr="00CE6B0F" w:rsidR="006942B1" w:rsidP="006942B1" w:rsidRDefault="006942B1">
+      <w:pPr>
+        <w:ind w:left="4956" />
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00CE6B0F">
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t xml:space="preserve">            </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t>%AVUKATALACAK%</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="006942B1" w:rsidP="006942B1" w:rsidRDefault="006942B1">
+      <w:pPr>
+        <w:ind w:left="4956" />
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="006942B1" w:rsidP="006942B1" w:rsidRDefault="006942B1">
+      <w:pPr>
+        <w:ind w:left="4956" />
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="006942B1" w:rsidP="006942B1" w:rsidRDefault="006942B1">
+      <w:pPr>
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+      </w:pPr>
+      <w:r w:rsidRPr="00CE6B0F">
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t>Borçlu</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t>-</w:t>
+      </w:r>
+      <w:r w:rsidRPr="00CE6B0F">
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+        <w:t xml:space="preserve">lar : </w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidRPr="004E6B4C" w:rsidR="006942B1" w:rsidP="006942B1" w:rsidRDefault="006942B1">
+      <w:pPr>
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:t>%KESINLESENBORCLULAR%</w:t>
+      </w:r>
+    </w:p>
+    <w:p w:rsidR="006942B1" w:rsidP="004E6B4C" w:rsidRDefault="006942B1" />
+    <w:p w:rsidRPr="004E6B4C" w:rsidR="006942B1" w:rsidP="004E6B4C" w:rsidRDefault="006942B1">
+      <w:pPr>
+        <w:rPr>
+          <w:b />
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w:rsidR="00796230" w:rsidP="00796230" w:rsidRDefault="00796230" />
+    <w:p w:rsidR="00796230" w:rsidP="00796230" w:rsidRDefault="00796230" />
+    <w:p w:rsidR="00796230" w:rsidP="00796230" w:rsidRDefault="00796230" />
+    <w:p w:rsidR="00796230" w:rsidP="00796230" w:rsidRDefault="00796230" />
+    <w:p w:rsidR="00796230" w:rsidP="00796230" w:rsidRDefault="00796230" />
+    <w:p w:rsidR="00796230" w:rsidP="00796230" w:rsidRDefault="00796230" />
+    <w:p w:rsidR="00796230" w:rsidP="00796230" w:rsidRDefault="00796230" />
+    <w:p w:rsidR="00796230" w:rsidP="00796230" w:rsidRDefault="00796230" />
+    <w:p w:rsidR="00796230" w:rsidP="00796230" w:rsidRDefault="00796230" />
+    <w:p w:rsidR="00796230" w:rsidP="00796230" w:rsidRDefault="00796230" />
+    <w:p w:rsidR="00796230" w:rsidP="00796230" w:rsidRDefault="00796230" />
+    <w:p w:rsidR="00796230" w:rsidP="00796230" w:rsidRDefault="00796230" />
+    <w:p w:rsidR="00796230" w:rsidP="00796230" w:rsidRDefault="00796230" />
+    <w:p w:rsidR="00516B3C" w:rsidP="00516B3C" w:rsidRDefault="00516B3C" />
+    <w:tbl>
+      <w:tblPr>
+        <w:tblW w:w="10620" w:type="dxa" />
+        <w:tblInd w:w="-792" w:type="dxa" />
+        <w:tblCellMar>
+          <w:left w:w="70" w:type="dxa" />
+          <w:right w:w="70" w:type="dxa" />
+        </w:tblCellMar>
+        <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1" />
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="301" />
+        <w:gridCol w:w="1600" />
+        <w:gridCol w:w="4100" />
+        <w:gridCol w:w="4619" />
+      </w:tblGrid>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="255" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:name="RANGE!A1:D53" w:id="0" />
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:lastRenderedPageBreak />
+              <w:t> </w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="0" />
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="5700" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="000000" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+              <w:t>TEBLİĞ MAZBATASI</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+                <w:u w:val="single" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+                <w:u w:val="single" />
+              </w:rPr>
+              <w:t>TAAHHÜTLÜ</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="255" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="5700" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="000000" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+              <w:t>Tebliğ evrakı</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>No :</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="255" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>1-</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="5700" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="000000" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+              <w:t>Adresinde veya  . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . .  da muhatap</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>İADE EDİLECEĞİ ADRES</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="004E6B4C" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="255" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="004E6B4C" w:rsidP="004E6B4C" w:rsidRDefault="004E6B4C">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="5700" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="000000" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="004E6B4C" w:rsidP="004E6B4C" w:rsidRDefault="004E6B4C">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+              <w:t xml:space="preserve"> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . .</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="auto" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="0045784D" w:rsidR="004E6B4C" w:rsidP="004E6B4C" w:rsidRDefault="004E6B4C">
+            <w:pPr>
+              <w:contextualSpacing />
+              <w:rPr>
+                <w:b />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="0045784D">
+              <w:rPr>
+                <w:b />
+              </w:rPr>
+              <w:t>T.C.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="004E6B4C" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="255" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="004E6B4C" w:rsidP="004E6B4C" w:rsidRDefault="004E6B4C">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>2-</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="5700" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="000000" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="004E6B4C" w:rsidP="004E6B4C" w:rsidRDefault="004E6B4C">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+              <w:t xml:space="preserve"> . . . . . . . . . . . . . . . . . . . .  sebebiyle muhatap yerine . . . . . . . . . . . . . . . . . . </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="FFFF00" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="0045784D" w:rsidR="004E6B4C" w:rsidP="004E6B4C" w:rsidRDefault="004E6B4C">
+            <w:pPr>
+              <w:spacing w:line="240" w:lineRule="auto" />
+              <w:contextualSpacing />
+              <w:rPr>
+                <w:b />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="0045784D">
+              <w:rPr>
+                <w:b />
+              </w:rPr>
+              <w:t>%ADALETSARAYI%</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="004E6B4C" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="255" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="004E6B4C" w:rsidP="004E6B4C" w:rsidRDefault="004E6B4C">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>3-</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="5700" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="000000" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="004E6B4C" w:rsidP="004E6B4C" w:rsidRDefault="004E6B4C">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+              <w:t>Tebliğin yapılması  . . . . . . . . . . . . . sebebiyle temin edilmediğinden</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="FFFF99" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="0045784D" w:rsidR="004E6B4C" w:rsidP="004E6B4C" w:rsidRDefault="004E6B4C">
+            <w:pPr>
+              <w:spacing w:line="240" w:lineRule="auto" />
+              <w:contextualSpacing />
+              <w:rPr>
+                <w:b />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="0045784D">
+              <w:rPr>
+                <w:b />
+              </w:rPr>
+              <w:t xml:space="preserve">%ICRADAIRESI%.İCRA MÜDÜRLÜĞÜ </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="004E6B4C" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="255" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="004E6B4C" w:rsidP="004E6B4C" w:rsidRDefault="004E6B4C">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="5700" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="000000" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="004E6B4C" w:rsidP="004E6B4C" w:rsidRDefault="004E6B4C">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+              <w:t xml:space="preserve"> . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="auto" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="0045784D" w:rsidR="004E6B4C" w:rsidP="004E6B4C" w:rsidRDefault="006942B1">
+            <w:pPr>
+              <w:spacing w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:b />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b />
+              </w:rPr>
+              <w:t>%DOSYANO%</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="004E6B4C" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="004E6B4C" w:rsidP="004E6B4C" w:rsidRDefault="004E6B4C">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>4-</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="5700" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="000000" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="004E6B4C" w:rsidP="004E6B4C" w:rsidRDefault="004E6B4C">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+              <w:t>Muhatabın muvakkaten . . . . . . . . . . . .  gittiği  . . . . . . . . . . . . . . . tarafından</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="FFFF00" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="0045784D" w:rsidR="004E6B4C" w:rsidP="004E6B4C" w:rsidRDefault="004E6B4C">
+            <w:pPr>
+              <w:contextualSpacing />
+              <w:rPr>
+                <w:b />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b />
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="5700" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="000000" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+              <w:t xml:space="preserve">bildirildiğinden . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="auto" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>Bu zarf</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>5-</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="5700" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="000000" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+              <w:t>( . . . . . .  ) mehil tayin edilip, ikinci defa tebligat çıkarıldığından keyfiyet haber</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="FFFF99" />
+            <w:vAlign w:val="center" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00061FC4">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>***</w:t>
+            </w:r>
+            <w:r w:rsidR="00EE54EB">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t xml:space="preserve"> örnek ödeme emri ve ekleri</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="5700" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="000000" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+              <w:t xml:space="preserve">verilerek muhatap yerine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="auto" />
+            <w:vAlign w:val="center" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+              <w:t>İhtiva Eder</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>6-</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="5700" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="000000" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+              <w:t xml:space="preserve"> . . . . . . . . . tebellüğden imtina ettiğinden . . . . . . . . . . . . . . . . . . . . . . . . .</w:t>
+            </w:r>
+            <w:bookmarkStart w:name="_GoBack" w:id="1" />
+            <w:bookmarkEnd w:id="1" />
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+              <w:t xml:space="preserve"> . . .</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:vMerge w:val="restart" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="FFFF00" />
+            <w:vAlign w:val="center" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="004E6B4C" w:rsidR="004E6B4C" w:rsidP="004E6B4C" w:rsidRDefault="004E6B4C">
+            <w:pPr>
+              <w:rPr>
+                <w:b />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:t>%KESINLESENBORCLULAR%</w:t>
+            </w:r>
+          </w:p>
+          <w:p w:rsidRPr="00EE54EB" w:rsidR="00EE54EB" w:rsidP="00EE54EB" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:ind w:left="720" />
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>7-</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="5700" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="000000" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+              <w:t>Adreste kimse bulunmaması üzerine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:vMerge />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:vAlign w:val="center" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t>8-</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="5700" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="000000" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+              <w:t>Tebliğ yapılacak kimse . . . . . . . sebebiyle imtina ettiğinden . . . . . . . . . . . . . .</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:vMerge />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:vAlign w:val="center" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="5700" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="000000" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+              <w:t>Tebligat yapılanın              Tebliğ Tarihi       Parmak İzi                     İmza</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="FFFFCC" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:ind w:firstLine="201" w:firstLineChars="100" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="5700" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="000000" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+              <w:t>Tebliğ Memurunun İmzası .... / .... / .....          ...........                       .......</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="FFFF00" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:ind w:firstLine="201" w:firstLineChars="100" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="5700" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="000000" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+              <w:t>Muhatap adresini değiştirmişse tebliğ memurunca  tespit edilen yeni adresi</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="FFFFCC" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:ind w:firstLine="201" w:firstLineChars="100" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="5700" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:right w:val="single" w:color="000000" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="16" />
+                <w:szCs w:val="16" />
+              </w:rPr>
+              <w:t xml:space="preserve"> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . .</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="FFFF00" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:jc w:val="right" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="dotted" w:color="auto" w:sz="4" w:space="0" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:noWrap />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="10319" w:type="dxa" />
+            <w:gridSpan w:val="3" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="dotted" w:color="auto" w:sz="4" w:space="0" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:noWrap />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="10319" w:type="dxa" />
+            <w:gridSpan w:val="3" />
+            <w:tcBorders>
+              <w:top w:val="dotted" w:color="auto" w:sz="4" w:space="0" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:noWrap />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="10319" w:type="dxa" />
+            <w:gridSpan w:val="3" />
+            <w:vMerge w:val="restart" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0" />
+              <w:right w:val="single" w:color="000000" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="center" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>TEBLİĞ MAZBATALI ZARF</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:noWrap />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="10319" w:type="dxa" />
+            <w:gridSpan w:val="3" />
+            <w:vMerge />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:vAlign w:val="center" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1901" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>Tebliği Çıkaran</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4100" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="004E6B4C">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:jc w:val="right" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>Ör. No: 41</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00061FC4" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1901" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00061FC4" w:rsidP="00061FC4" w:rsidRDefault="00061FC4">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>Merciin Adı           :</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4100" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="0045784D" w:rsidR="00061FC4" w:rsidP="00061FC4" w:rsidRDefault="00061FC4">
+            <w:pPr>
+              <w:contextualSpacing />
+              <w:rPr>
+                <w:b />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="0045784D">
+              <w:rPr>
+                <w:b />
+              </w:rPr>
+              <w:t>T.C.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00061FC4" w:rsidP="00061FC4" w:rsidRDefault="00061FC4">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:i />
+                <w:iCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:i />
+                <w:iCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>TAAHHÜTLÜ</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00061FC4" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1901" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00061FC4" w:rsidP="00061FC4" w:rsidRDefault="00061FC4">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4100" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="0045784D" w:rsidR="00061FC4" w:rsidP="00061FC4" w:rsidRDefault="00061FC4">
+            <w:pPr>
+              <w:spacing w:line="240" w:lineRule="auto" />
+              <w:contextualSpacing />
+              <w:rPr>
+                <w:b />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="0045784D">
+              <w:rPr>
+                <w:b />
+              </w:rPr>
+              <w:t>%ADALETSARAYI%</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00061FC4" w:rsidP="00061FC4" w:rsidRDefault="00061FC4">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>No :</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00061FC4" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1901" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00061FC4" w:rsidP="00061FC4" w:rsidRDefault="00061FC4">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>Dosya No             :</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4100" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="0045784D" w:rsidR="00061FC4" w:rsidP="00061FC4" w:rsidRDefault="00061FC4">
+            <w:pPr>
+              <w:spacing w:line="240" w:lineRule="auto" />
+              <w:contextualSpacing />
+              <w:rPr>
+                <w:b />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="0045784D">
+              <w:rPr>
+                <w:b />
+              </w:rPr>
+              <w:t xml:space="preserve">%ICRADAIRESI%.İCRA MÜDÜRLÜĞÜ </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00061FC4" w:rsidP="00061FC4" w:rsidRDefault="00061FC4">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:jc w:val="both" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00061FC4" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1901" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:noWrap />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00061FC4" w:rsidP="00061FC4" w:rsidRDefault="00061FC4">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4100" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:noWrap />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="0045784D" w:rsidR="00061FC4" w:rsidP="00061FC4" w:rsidRDefault="00061FC4">
+            <w:pPr>
+              <w:spacing w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:b />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b />
+              </w:rPr>
+              <w:t>%DOSYANO%</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="004E6B4C" w:rsidR="00061FC4" w:rsidP="00061FC4" w:rsidRDefault="00061FC4">
+            <w:pPr>
+              <w:rPr>
+                <w:b />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:t>%KESINLESENBORCLULAR%</w:t>
+            </w:r>
+          </w:p>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00061FC4" w:rsidP="00061FC4" w:rsidRDefault="00061FC4">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="6001" w:type="dxa" />
+            <w:gridSpan w:val="3" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="000000" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>Tebliğ daveti de tazammun ediyorsa, hazırn bulunulması lazım</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:vMerge w:val="restart" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="center" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:ind w:firstLine="201" w:firstLineChars="100" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1901" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>gelen yer              :</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4100" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:jc w:val="right" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:vMerge />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:vAlign w:val="center" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1901" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>Tarih                     :</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4100" w:type="dxa" />
+            <w:vMerge w:val="restart" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="center" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00E84378">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>*</w:t>
+            </w:r>
+            <w:r w:rsidR="00107D9C">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>**</w:t>
+            </w:r>
+            <w:r w:rsidR="00EE54EB">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t xml:space="preserve"> örnek ödeme emri ve ekleri</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:vMerge />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:vAlign w:val="center" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1901" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>Gün                      :</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4100" w:type="dxa" />
+            <w:vMerge />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:vAlign w:val="center" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00EE54EB" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:ind w:firstLine="201" w:firstLineChars="100" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1901" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>Bu zarf</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4100" w:type="dxa" />
+            <w:vMerge />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:vAlign w:val="center" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:ind w:firstLine="201" w:firstLineChars="100" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1901" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="center" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:jc w:val="center" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="18" />
+                <w:szCs w:val="18" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4100" w:type="dxa" />
+            <w:vMerge />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:vAlign w:val="center" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:ind w:firstLine="201" w:firstLineChars="100" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1901" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>İhtiva eder</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4100" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:ind w:firstLine="201" w:firstLineChars="100" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1901" w:type="dxa" />
+            <w:gridSpan w:val="2" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4100" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:jc w:val="right" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:b />
+                <w:bCs />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="6001" w:type="dxa" />
+            <w:gridSpan w:val="3" />
+            <w:vMerge w:val="restart" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="center" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>Tebligat Tüz. m. 33, 75 Örnek No: 3, 7</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:vMerge w:val="restart" />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="center" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>Not : Bu kısma muhatabın adresi yazılacaktır.</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="6001" w:type="dxa" />
+            <w:gridSpan w:val="3" />
+            <w:vMerge />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:vAlign w:val="center" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:vMerge />
+            <w:tcBorders>
+              <w:top w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:left w:val="single" w:color="auto" w:sz="4" w:space="0" />
+              <w:bottom w:val="single" w:color="000000" w:sz="4" w:space="0" />
+              <w:right w:val="single" w:color="auto" w:sz="4" w:space="0" />
+            </w:tcBorders>
+            <w:vAlign w:val="center" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="60" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="dotted" w:color="auto" w:sz="4" w:space="0" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:noWrap />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1600" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="dotted" w:color="auto" w:sz="4" w:space="0" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4100" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="dotted" w:color="auto" w:sz="4" w:space="0" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="dotted" w:color="auto" w:sz="4" w:space="0" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="000000" w:fill="C0C0C0" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="auto" />
+            <w:noWrap />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1600" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="auto" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4100" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="auto" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="auto" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00460E1E">
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t> </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidTr="0020074B">
+        <w:trPr>
+          <w:trHeight w:val="300" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="301" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="auto" />
+            <w:noWrap />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1600" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="auto" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4100" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="auto" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4619" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:shd w:val="clear" w:color="auto" w:fill="auto" />
+            <w:vAlign w:val="bottom" />
+            <w:hideMark />
+          </w:tcPr>
+          <w:p w:rsidRPr="00460E1E" w:rsidR="00EE54EB" w:rsidP="00E07EC0" w:rsidRDefault="00EE54EB">
+            <w:pPr>
+              <w:spacing w:after="0" w:line="240" w:lineRule="auto" />
+              <w:rPr>
+                <w:rFonts w:ascii="Arial TUR" w:hAnsi="Arial TUR" w:eastAsia="Times New Roman" w:cs="Arial TUR" />
+                <w:sz w:val="20" />
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w:rsidRPr="00516B3C" w:rsidR="00EE54EB" w:rsidP="00516B3C" w:rsidRDefault="00EE54EB" />
+    <w:sectPr w:rsidRPr="00516B3C" w:rsidR="00EE54EB" w:rsidSect="00EE54EB">
+      <w:pgSz w:w="11906" w:h="16838" />
+      <w:pgMar w:top="709" w:right="1417" w:bottom="1417" w:left="1417" w:header="708" w:footer="708" w:gutter="0" />
+      <w:cols w:space="708" />
+      <w:docGrid w:linePitch="360" />
+    </w:sectPr>
+  </w:body>
+</w:document>

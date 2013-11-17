@@ -1,0 +1,641 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Foxby</name>
+    </assembly>
+    <members>
+        <member name="T:Foxby.Core.DocumentBuilder.Anchors.AnchorElement`1">
+            <summary>
+            Contains metadata for anchors such as tags, placeholders etc.
+            </summary>
+            <typeparam name="TElement"><see cref="T:DocumentFormat.OpenXml.OpenXmlElement"/> representing anchor</typeparam>
+        </member>
+        <member name="M:Foxby.Core.DocumentBuilder.Anchors.AnchorElement`1.Remove">
+            <summary>
+             Removes anchor from OpenXML document preserving its content
+            </summary>
+        </member>
+        <member name="P:Foxby.Core.DocumentBuilder.Anchors.AnchorElement`1.Name">
+            <summary>
+            Anchor name
+            </summary>
+        </member>
+        <member name="P:Foxby.Core.DocumentBuilder.Anchors.AnchorElement`1.OpeningName">
+            <summary>
+            Fully qualified name of opening anchor
+            </summary>
+        </member>
+        <member name="P:Foxby.Core.DocumentBuilder.Anchors.AnchorElement`1.ClosingName">
+            <summary>
+            Fully qualified name of closing anchor
+            </summary>
+        </member>
+        <member name="P:Foxby.Core.DocumentBuilder.Anchors.AnchorElement`1.Opening">
+            <summary>
+            <see cref="T:DocumentFormat.OpenXml.OpenXmlElement"/> corresponding to opening anchor
+            </summary>
+        </member>
+        <member name="P:Foxby.Core.DocumentBuilder.Anchors.AnchorElement`1.Closing">
+            <summary>
+            <see cref="T:DocumentFormat.OpenXml.OpenXmlElement"/> corresponding to closing anchor
+            </summary>
+        </member>
+        <member name="T:Foxby.Core.DocumentBuilder.Anchors.DocumentPlaceholder">
+            <summary>
+             Represents inline anchor (placeholder)
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.DocumentBuilder.Anchors.DocumentPlaceholder.#ctor(System.String)">
+            <summary>
+             ctor
+            </summary>
+            <param name="placeholderName">Name of new placeholder</param>
+        </member>
+        <member name="T:Foxby.Core.DocumentBuilder.Anchors.DocumentTag">
+            <summary>
+             Represents block anchor (tag)
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.DocumentBuilder.Anchors.DocumentTag.#ctor(System.String)">
+            <summary>
+             ctor
+            </summary>
+            <param name="tagName">Name of new tag</param>
+        </member>
+        <member name="T:Foxby.Core.DocumentBuilder.DocxDocumentBuilderBase">
+            <summary>
+            Contains common operations for working OpenXML tree
+            </summary>
+        </member>
+        <member name="T:Foxby.Core.IDocumentTagContextBuilder">
+            <summary>
+             Provide base methods for changing content of tags
+            </summary>
+        </member>
+        <member name="T:Foxby.Core.IDocumentParagraphFormattableBuilder">
+            <summary>
+             Provides methods for inserting paragraphs with specified indentation and format
+            </summary>
+        </member>
+        <member name="T:Foxby.Core.IDocumentFormattableBuilder`1">
+            <summary>
+            Provides alignment options for block OpenXML elements
+            </summary>
+            <typeparam name="TBuilder">Concrete builder type</typeparam>
+        </member>
+        <member name="P:Foxby.Core.IDocumentFormattableBuilder`1.Left">
+            <summary>
+            Aligns element to left
+            </summary>
+        </member>
+        <member name="P:Foxby.Core.IDocumentFormattableBuilder`1.Center">
+            <summary>
+            Aligns element to center
+            </summary>
+        </member>
+        <member name="P:Foxby.Core.IDocumentFormattableBuilder`1.Right">
+            <summary>
+            Aligns element to right
+            </summary>
+        </member>
+        <member name="P:Foxby.Core.IDocumentFormattableBuilder`1.Both">
+            <summary>
+            Aligns element to justify
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.IDocumentParagraphFormattableBuilder.Paragraph(System.String[])">
+            <summary>
+             Appends paragraph with specified text <paramref name="content"/> to current tag
+            </summary>
+            <param name="content">Text content of new paragraph</param>
+        </member>
+        <member name="M:Foxby.Core.IDocumentParagraphFormattableBuilder.Paragraph(Foxby.Core.MetaObjects.Format)">
+            <summary>
+             Appends paragraph with specified formatted text <paramref name="content"/> to current tag
+            </summary>
+            <param name="content">Formatted text content of new paragraph</param>
+        </member>
+        <member name="M:Foxby.Core.IDocumentParagraphFormattableBuilder.Paragraph(System.Action{Foxby.Core.IDocumentContextBuilder})">
+            <summary>
+             Appends paragraph with specified by builder <paramref name="options"/> to current tag
+            </summary>
+            <param name="options">Delegate which contains code filling paragraph content</param>
+        </member>
+        <member name="P:Foxby.Core.IDocumentParagraphFormattableBuilder.Indent">
+            <summary>
+             Specifies one tab-width indentation preceding the paragraph beign inserted
+            </summary>
+        </member>
+        <member name="T:Foxby.Core.IDocumentTableContextBuilder">
+            <summary>
+             Provides methods for inserting tables
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.IDocumentTableContextBuilder.Table(System.Action{Foxby.Core.IDocumentTableSchemeBuilder},System.Action{Foxby.Core.IDocumentTableRowsBuilder})">
+            <summary>
+             Inserts new table with specified <paramref name="header"/> and <paramref name="rows"/>
+            </summary>
+            <param name="header">Delegate which contains code defining table header</param>
+            <param name="rows">Delegate which contains code filling table rows content</param>
+        </member>
+        <member name="P:Foxby.Core.IDocumentTableContextBuilder.BorderNone">
+            <summary>
+             Indicates whether preceding table will have no borders
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.IDocumentTagContextBuilder.EditableStart">
+            <summary>
+             Explicitly indicates begin of editable area in document
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.IDocumentTagContextBuilder.EditableEnd">
+            <summary>
+            Explicitly indicates end of editable area in document
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.IDocumentTagContextBuilder.EmptyLine">
+            <summary>
+             Appends empty line to tag
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.IDocumentTagContextBuilder.EmptyLine(System.Int32)">
+            <summary>
+             Appends specified <paramref name="count"/> of empty lines to tag
+            </summary>
+            <param name="count"></param>
+        </member>
+        <member name="M:Foxby.Core.IDocumentTagContextBuilder.AppendTag(System.String,System.Action{Foxby.Core.IDocumentTagContextBuilder})">
+            <summary>
+             Appends new children tag with specified <paramref name="tagName"/> and content
+            </summary>
+            <param name="tagName">New tag name</param>
+            <param name="options">Delegate which contains code filling new tag content</param>
+        </member>
+        <member name="M:Foxby.Core.IDocumentTagContextBuilder.OrderedList(System.Action{Foxby.Core.IDocumentOrderedListBuilder})">
+            <summary>
+             Appends ordered list to tag
+            </summary>
+            <param name="options">Delegate which contains code filling list with items</param>
+        </member>
+        <member name="T:Foxby.Core.DocumentBuilder.DocxDocumentBuilder">
+            <summary>
+            Operates with content of tags and placeholders in OpenXML template
+            </summary>
+        </member>
+        <member name="T:Foxby.Core.IDocumentBuilder">
+            <summary>
+            Provide methods for top level operations
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.IDocumentBuilder.Tag(System.String,System.Action{Foxby.Core.IDocumentTagContextBuilder})">
+            <summary>
+            Sets internal content to tag with name <paramref name="tagName"/>
+            </summary>
+            <param name="tagName">Tag name from template</param>
+            <param name="options">Delegate which contains code filling tag content</param>
+        </member>
+        <member name="M:Foxby.Core.IDocumentBuilder.Placeholder(System.String,System.Action{Foxby.Core.IDocumentContextBuilder},System.Boolean)">
+            <summary>
+            Sets internal content to placeholder with name <paramref name="placeholderName"/>
+            </summary>
+            <param name="placeholderName">Placeholder name from template</param>
+            <param name="options">Delegate which contains code filling placeholder content</param>
+            <param name="preservePlaceholder">Indicates whether to remove placeholder after setting its content. Default is true.</param>
+        </member>
+        <member name="M:Foxby.Core.IDocumentBuilder.BlockField(System.String,System.Action{Foxby.Core.IDocumentTagContextBuilder})">
+            <summary>
+            Sets internal content to block field (sdt element) with name <paramref name="fieldName"/>
+            </summary>
+            <param name="fieldName">Field name from template</param>
+            <param name="options">Delegate which contains code filling field content</param>
+        </member>
+        <member name="M:Foxby.Core.IDocumentBuilder.InlineField(System.String,System.Action{Foxby.Core.IDocumentContextBuilder})">
+            <summary>
+            Sets internal content to inline field (sdt element) with name <paramref name="fieldName"/>
+            </summary>
+            <param name="fieldName">Field name from template</param>
+            <param name="options">Delegate which contains code filling field content</param>
+        </member>
+        <member name="M:Foxby.Core.IDocumentBuilder.SetVisibilityTag(System.String,System.Boolean)">
+            <summary>
+            Hide or display content of tag with name <paramref name="tagName"/>
+            </summary>
+            <param name="tagName">Tag name from template</param>
+            <param name="visible">Hide content if false; otherwise, show content</param>
+        </member>
+        <member name="M:Foxby.Core.IDocumentBuilder.Validate">
+            <summary>
+            Validate OpenXML document against a schema
+            </summary>
+            <returns>True if content is valid; otherwise, false</returns>
+        </member>
+        <member name="M:Foxby.Core.IDocumentBuilder.ToArray">
+            <summary>
+            Serialize OpenXML document as binary array
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.IDocumentBuilder.GetCustomProperty(System.String)">
+            <summary>
+             Gets value for specified <paramref name="key"/> from docx document inner key-value storage
+            </summary>
+            <param name="key">Key name</param>
+        </member>
+        <member name="P:Foxby.Core.IDocumentBuilder.Fields">
+            <summary>
+            Returns collection of fields of underlying docxdocument
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.DocumentBuilder.DocxDocumentBuilder.#ctor(Foxby.Core.MetaObjects.DocxDocument,Foxby.Core.DocumentBuilder.TagVisibilityOptions)">
+            <summary>
+            Create builder for template
+            </summary>
+            <param name="docxDocument">Template document</param>
+            <param name="tagVisibilityOptions">List of tags for show and hide</param>
+        </member>
+        <member name="M:Foxby.Core.DocumentBuilder.DocxDocumentBuilder.Create(Foxby.Core.MetaObjects.DocxDocument)">
+            <summary>
+            Factory method
+            </summary>
+            <param name="docxDocument">Template document</param>
+        </member>
+        <member name="T:Foxby.Core.IDocumentContextBuilder">
+            <summary>
+            Provide base methods for changing content of block anchors and OpenXML elements
+            </summary>
+        </member>
+        <member name="T:Foxby.Core.IDocumentContextFormattableBuilder">
+            <summary>
+            Provide methods for edit or format text content of inline elements
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.IDocumentContextFormattableBuilder.Text(System.String[])">
+            <summary>
+            Sets text lines
+            </summary>
+            <param name="contentLines">Text lines</param>
+        </member>
+        <member name="M:Foxby.Core.IDocumentContextFormattableBuilder.Line(System.String)">
+            <summary>
+            Sets text line
+            </summary>
+            <param name="contentLine">Text line</param>
+        </member>
+        <member name="P:Foxby.Core.IDocumentContextFormattableBuilder.Bold">
+            <summary>
+            Format text as bold
+            </summary>
+        </member>
+        <member name="P:Foxby.Core.IDocumentContextFormattableBuilder.Italic">
+            <summary>
+            Format text as italic
+            </summary>
+        </member>
+        <member name="P:Foxby.Core.IDocumentContextFormattableBuilder.Underlined">
+            <summary>
+            Format text as underlined
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.IDocumentContextBuilder.EditableStart">
+            <summary>
+            Explicitly indicates begin of editable area in document
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.IDocumentContextBuilder.EditableEnd">
+            <summary>
+            Explicitly indicates end of editable area in document
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.IDocumentContextBuilder.Placeholder(System.String,System.Action{Foxby.Core.IDocumentContextBuilder})">
+            <summary>
+            Inserts placeholder with specified <paramref name="placeholderName"/> and content declared by delegate <paramref name="options"/>
+            </summary>
+            <param name="placeholderName">Placeholder name</param>
+            <param name="options">Delegate which contains code filling placeholder content</param>
+        </member>
+        <member name="M:Foxby.Core.IDocumentContextBuilder.Placeholder(System.String,System.String[])">
+            <summary>
+            Inserts placeholder with specified <paramref name="placeholderName"/> and text content from <paramref name="contentLines"/>
+            </summary>
+            <param name="placeholderName">Placeholder name</param>
+            <param name="contentLines">Text content</param>
+        </member>
+        <member name="M:Foxby.Core.IDocumentContextBuilder.AddText(System.String[])">
+            <summary>
+            Appends text from <paramref name="contentLines"/>
+            </summary>
+            <param name="contentLines">Text content</param>
+        </member>
+        <member name="M:Foxby.Core.IDocumentContextBuilder.Image(System.Byte[],System.String)">
+            <summary>
+            Inserts image specified by <paramref name="content"/>
+            </summary>
+            <param name="content">Image binary content</param>
+            <param name="contentType">MIME type</param>
+        </member>
+        <member name="T:Foxby.Core.ICellContextBuilder">
+            <summary>
+            Provides methods for building content of table cells
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.ICellContextBuilder.Cell(System.String)">
+            <summary>
+            Sets text <paramref name="content"/> in cell
+            </summary>
+            <param name="content">Text content for cell</param>
+        </member>
+        <member name="M:Foxby.Core.ICellContextBuilder.Cell(System.Action{Foxby.Core.IDocumentContextBuilder})">
+            <summary>
+            Builds cell <paramref name="content"/> using delegate
+            </summary>
+            <param name="content">Content builder</param>
+        </member>
+        <member name="T:Foxby.Core.IDocumentOrderedListBuilder">
+            <summary>
+            Provider methods for creating ordered list items
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.IDocumentOrderedListBuilder.Item(System.String[])">
+            <summary>
+            Create one ordered list item
+            </summary>
+            <param name="contentLines">Text lines</param>
+        </member>
+        <member name="M:Foxby.Core.IDocumentOrderedListBuilder.Item(System.Action{Foxby.Core.IDocumentContextBuilder})">
+            <summary>
+            Create one ordered list item
+            </summary>
+            <param name="options">Delegate which contains code filling list item content</param>
+        </member>
+        <member name="T:Foxby.Core.IDocumentTableSchemeBuilder">
+            <summary>
+             Provides methods for defining table header and columns metadata
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.IDocumentTableSchemeBuilder.Column(System.String)">
+            <summary>
+             Defines column with specified <paramref name="columnName"/>
+            </summary>
+            <param name="columnName">Column name as displayed in header</param>
+        </member>
+        <member name="M:Foxby.Core.IDocumentTableSchemeBuilder.Column(System.String,System.Single)">
+            <summary>
+             Defines column with specified <paramref name="columnName"/> and <paramref name="widthInPercents"/>
+            </summary>
+            <param name="columnName">Column name as displayed in header</param>
+            <param name="widthInPercents">Width for column in percents (must be set for all columns)</param>
+        </member>
+        <member name="T:Foxby.Core.IDocumentTableRowsBuilder">
+            <summary>
+             Provides methods for inserting table rows with content
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.IDocumentTableRowsBuilder.Row(System.String[])">
+            <summary>
+             Appends new row with specified cell <paramref name="content"/>
+            </summary>
+            <param name="content">Text content where each string represents single cell content</param>
+        </member>
+        <member name="M:Foxby.Core.IDocumentTableRowsBuilder.Row(System.Action{Foxby.Core.ICellContextBuilder}[])">
+            <summary>
+             Appends new row with content built by delegates <paramref name="options"/>
+            </summary>
+            <param name="options">Delegates which contains code filling table row content</param>
+        </member>
+        <member name="T:Foxby.Core.DocumentBuilder.TagVisibilityOptions">
+            <summary>
+            List of tags for show and hide 
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.DocumentBuilder.TagVisibilityOptions.#ctor(System.String,System.Collections.Generic.IEnumerable{System.String})">
+            <summary>
+            ctor
+            </summary>
+            <param name="visibleTagName">Tag name for show</param>
+            <param name="hiddenTagNames">Tag names for hide</param>
+        </member>
+        <member name="P:Foxby.Core.DocumentBuilder.TagVisibilityOptions.HiddenTagNames">
+            <summary>
+            Tag names for hide
+            </summary>
+        </member>
+        <member name="P:Foxby.Core.DocumentBuilder.TagVisibilityOptions.VisibleTagName">
+            <summary>
+            Tag name for show
+            </summary>
+        </member>
+        <member name="T:Foxby.Core.MetaObjects.Collections.FieldsCollection">
+            <summary>
+            Collection which contains all sdt fields from document represented as <see cref="T:Foxby.Core.MetaObjects.Field"/>s
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.Collections.FieldsCollection.Contains(System.String,System.String)">
+            <summary>
+            Looks for sdt field in document specified by <paramref name="name"/>, <paramref name="tag"/> or both <paramref name="name"/> and <paramref name="tag"/>
+            </summary>
+            <param name="name">Name of field</param>
+            <param name="tag">Name of tag of field</param>
+        </member>
+        <member name="T:Foxby.Core.MetaObjects.Field">
+            <summary>
+            Class which holds basic information about <see cref="T:DocumentFormat.OpenXml.Wordprocessing.SdtElement"/>
+            </summary>
+        </member>
+        <member name="P:Foxby.Core.MetaObjects.Field.Name">
+            <summary>
+            Name of underlying <see cref="T:DocumentFormat.OpenXml.Wordprocessing.SdtElement"/>
+            </summary>
+        </member>
+        <member name="P:Foxby.Core.MetaObjects.Field.Tag">
+            <summary>
+            Name of tag of underlying <see cref="T:DocumentFormat.OpenXml.Wordprocessing.SdtElement"/>
+            </summary>
+        </member>
+        <member name="T:Foxby.Core.MetaObjects.DocxDocument">
+            <summary>
+             Wrapper for OpenXML docx file which provides base methods for operating document
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.DocxDocument.#ctor">
+            <summary>
+             Creates new instance of DocxDocument from scratch
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.DocxDocument.#ctor(System.Byte[])">
+            <summary>
+             Creates new instance of DocxDocument using <paramref name="template"/>
+            </summary>
+            <param name="template">Binary content of docx file</param>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.DocxDocument.SetTagVisibility(Foxby.Core.DocumentBuilder.TagVisibilityOptions)">
+            <summary>
+            Sets visibility as specified in <paramref name="options"/> passed
+            </summary>
+            <param name="options">Specify tags to be shown and hidden</param>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.DocxDocument.SetTagVisibility(System.String,System.Boolean)">
+            <summary>
+             Sets visibility for tag specified by <paramref name="tagName"/>
+            </summary>
+            <param name="tagName">Tag name</param>
+            <param name="isVisible">Shows tag if set to true, otherwise hides it</param>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.DocxDocument.CleanContent(System.String)">
+            <summary>
+             Removes all content from tag specified by <paramref name="tagName"/>
+            </summary>
+            <param name="tagName">Tag name</param>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.DocxDocument.ToArray">
+            <summary>
+            Serialize OpenXML document as binary array
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.DocxDocument.Unprotect">
+            <summary>
+             Removes global readonly protection from OpenXML docx document
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.DocxDocument.Protect">
+            <summary>
+             Sets global readonly protection for OpenXML docx document
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.DocxDocument.SetCustomProperty(System.String,System.String)">
+            <summary>
+             Sets value for specified <paramref name="key"/> into docx document inner key-value storage
+            </summary>
+            <param name="key">Key name</param>
+            <param name="value">Value to be set</param>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.DocxDocument.GetCustomProperty(System.String)">
+            <summary>
+             Gets value for specified <paramref name="key"/> from docx document inner key-value storage
+            </summary>
+            <param name="key">Key name</param>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.DocxDocument.AppendParagraph(System.String,System.Boolean)">
+            <summary>
+             Appends paragraph with specified <paramref name="content"/> to the end of the document
+            </summary>
+            <param name="content">Text content</param>
+            <param name="visible">Specifies whether paragraph appended is visible or not</param>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.DocxDocument.AppendTag(System.String)">
+            <summary>
+             Appends opening and closing tags pair to the end of docx document
+            </summary>
+            <param name="tagName">Tag name</param>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.DocxDocument.AppendSelfclosingTag(System.String,System.Boolean)">
+            <summary>
+             Appends selfclosing tag to the end of docx document
+            </summary>
+            <param name="tagName">Tag name</param>
+            <param name="isVisible">Specifies whether new tag will be visible or not</param>
+        </member>
+        <member name="P:Foxby.Core.MetaObjects.DocxDocument.HasSignatures">
+            <summary>
+             Checks whether docx document have any digital signatures or not
+            </summary>
+        </member>
+        <member name="P:Foxby.Core.MetaObjects.DocxDocument.Fields">
+            <summary>
+            Placeholder fields created using <see cref="T:DocumentFormat.OpenXml.Wordprocessing.SdtElement"/> subclasses
+            </summary>
+        </member>
+        <member name="T:Foxby.Core.MetaObjects.Extensions.StringFormatExtensions">
+            <summary>
+             Provides extension methods for specifying formatting options for text strings
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.Extensions.StringFormatExtensions.Bold(System.String)">
+            <summary>
+             Applies bold format to string
+            </summary>
+            <param name="this"></param>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.Extensions.StringFormatExtensions.Underlined(System.String)">
+            <summary>
+            Applies underlined format to string
+            </summary>
+            <param name="this"></param>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.Extensions.StringFormatExtensions.Italic(System.String)">
+            <summary>
+            Applies italic format to string
+            </summary>
+            <param name="this"></param>
+        </member>
+        <member name="T:Foxby.Core.MetaObjects.Format">
+            <summary>
+             Stores formatting options for text strings
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.Format.op_Implicit(System.String)~Foxby.Core.MetaObjects.Format">
+            <summary>
+             Converts string to empty formatted string
+            </summary>
+            <param name="value">String of text</param>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.Format.op_Addition(System.String,Foxby.Core.MetaObjects.Format)">
+            <summary>
+             Concates formatted string with unformatted string
+            </summary>
+            <param name="x">String of text</param>
+            <param name="y">Formatted string</param>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.Format.op_Addition(Foxby.Core.MetaObjects.Format,Foxby.Core.MetaObjects.Format)">
+            <summary>
+             Concates two formatted strings
+            </summary>
+            <param name="x">Left-side formatted string</param>
+            <param name="y">Right-side formatted string</param>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.Format.Bold">
+            <summary>
+             Appends bold formatting option to current format
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.Format.Underlined">
+            <summary>
+             Appends underlined formatting option to current format
+            </summary>
+        </member>
+        <member name="M:Foxby.Core.MetaObjects.Format.Italic">
+            <summary>
+             Appends italic formatting option to current format
+            </summary>
+        </member>
+        <member name="T:Foxby.Core.SimpleTemplate">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Foxby.Core.SimpleTemplate.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Foxby.Core.SimpleTemplate.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:Foxby.Core.SimpleTemplate.ContentTagName">
+            <summary>
+              Looks up a localized string similar to CONTENT.
+            </summary>
+        </member>
+        <member name="P:Foxby.Core.SimpleTemplate.FooterTagName">
+            <summary>
+              Looks up a localized string similar to FOOTER.
+            </summary>
+        </member>
+        <member name="P:Foxby.Core.SimpleTemplate.HeaderTagName">
+            <summary>
+              Looks up a localized string similar to HEADER.
+            </summary>
+        </member>
+    </members>
+</doc>

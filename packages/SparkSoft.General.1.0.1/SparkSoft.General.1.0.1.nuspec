@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SparkSoft.General</id>
+    <version>1.0.1</version>
+    <title>SparkSoft.General</title>
+    <authors>SparkSoft Inc.</authors>
+    <owners>SparkSoft Inc.</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SparkSoft.General package includes basic extensibility and functionality logic</description>
+  </metadata>
+</package>
